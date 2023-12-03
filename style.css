@@ -316,6 +316,20 @@ i {
   .hero p {
     font-size: 14px;
   }
+  .about-description h2{
+    font-size: 22px;
+  }
+
+  #content-reverse-1{
+
+    flex-direction: column-reverse;
+
+  }
+  #content-reverse-2{
+
+    flex-direction: column-reverse;
+
+  }
 
   .about-content {
     flex-direction: column;
@@ -336,9 +350,7 @@ i {
     font-size: 24px;
   }
 
-  .about-description h2{
-    font-size: 22px;
-  }
+  
 }
 body {
   font-family: "Sora", sans-serif;
